@@ -1,0 +1,21 @@
+.imagens {
+    widows: 120px;
+    height: 150px;
+    padding: 2px;
+}
+
+.portifolio {
+    display:flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    box-sizing: border-box;
+}
+
+.desenhos {
+    display:flex;
+    flex-direction: row;
+    justify-content: space-between;
+    
+}

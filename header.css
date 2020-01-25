@@ -1,0 +1,19 @@
+.main-header{
+    background-color: rgb(44,62,80);
+    color: white;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 10%;
+}
+
+.main-header .title {
+    display: inline;
+}
+
+.main-header a {
+    color: white
+}
+
+

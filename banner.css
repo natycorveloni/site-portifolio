@@ -1,0 +1,15 @@
+.banner {
+width: 100%;
+height: 300px;
+background-color: red;
+display: flex;
+justify-content: center;
+flex-direction: column;
+align-items: center;
+color: white;
+}
+
+.avatar.img {
+    widows: 120px;
+    height: 100px;
+}

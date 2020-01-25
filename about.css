@@ -1,0 +1,26 @@
+.about {
+    background-color: crimson;
+    color: white;
+    display:flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    box-sizing: border-box;
+}
+
+.texto {
+    display: inline-block;
+    column-count: 2;
+    width: 800px;
+}
+
+.menu-itens {
+    padding: 10px 20px;
+    border: 1px solid white;
+    border-radius: 5px;
+    background-color: crimson;
+}
+.itens {
+    color: white;
+}

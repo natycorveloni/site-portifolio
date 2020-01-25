@@ -1,0 +1,13 @@
+@import './header.css';
+@import './banner.css';
+@import './portifolio.css';
+@import './about.css';
+@import './contact.css';
+@import './footer.css';
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: o;
+}
+
